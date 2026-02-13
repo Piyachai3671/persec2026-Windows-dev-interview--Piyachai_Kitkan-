@@ -1,0 +1,7 @@
+E:\Coding\ConsoleExamp5\ConsoleExamp5\bin\Debug\ConsoleExamp5.exe.config
+E:\Coding\ConsoleExamp5\ConsoleExamp5\bin\Debug\ConsoleExamp5.exe
+E:\Coding\ConsoleExamp5\ConsoleExamp5\bin\Debug\ConsoleExamp5.pdb
+E:\Coding\ConsoleExamp5\ConsoleExamp5\obj\Debug\ConsoleExamp5.csproj.AssemblyReference.cache
+E:\Coding\ConsoleExamp5\ConsoleExamp5\obj\Debug\ConsoleExamp5.csproj.CoreCompileInputs.cache
+E:\Coding\ConsoleExamp5\ConsoleExamp5\obj\Debug\ConsoleExamp5.exe
+E:\Coding\ConsoleExamp5\ConsoleExamp5\obj\Debug\ConsoleExamp5.pdb
