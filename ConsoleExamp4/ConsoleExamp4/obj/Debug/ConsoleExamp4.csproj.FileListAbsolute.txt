@@ -1,0 +1,14 @@
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.exe.config
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.exe
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.pdb
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.csproj.AssemblyReference.cache
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.csproj.CoreCompileInputs.cache
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.exe
+C:\Users\oonet\source\repos\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.pdb
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.exe.config
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.exe
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\bin\Debug\ConsoleExamp4.pdb
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.csproj.AssemblyReference.cache
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.csproj.CoreCompileInputs.cache
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.exe
+C:\Users\oonet\Downloads\ConsoleExamp2\ConsoleExamp4\ConsoleExamp4\obj\Debug\ConsoleExamp4.pdb
