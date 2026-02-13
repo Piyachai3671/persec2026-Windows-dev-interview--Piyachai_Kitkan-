@@ -1,0 +1,10 @@
+E:\Coding\WinformExamp3\WinformExamp3\bin\Debug\WinformExamp3.exe.config
+E:\Coding\WinformExamp3\WinformExamp3\bin\Debug\WinformExamp3.exe
+E:\Coding\WinformExamp3\WinformExamp3\bin\Debug\WinformExamp3.pdb
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.csproj.AssemblyReference.cache
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.Form1.resources
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.Properties.Resources.resources
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.csproj.GenerateResource.cache
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.csproj.CoreCompileInputs.cache
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.exe
+E:\Coding\WinformExamp3\WinformExamp3\obj\Debug\WinformExamp3.pdb
