@@ -1,0 +1,14 @@
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.csproj.AssemblyReference.cache
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.csproj.CoreCompileInputs.cache
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.exe.config
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.exe
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.pdb
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.exe
+C:\Users\oonet\source\repos\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.pdb
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.exe.config
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.exe
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\bin\Debug\ConsoleExamp6.pdb
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.csproj.AssemblyReference.cache
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.csproj.CoreCompileInputs.cache
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.exe
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\ConsoleExamp6\ConsoleExamp6\obj\Debug\ConsoleExamp6.pdb
