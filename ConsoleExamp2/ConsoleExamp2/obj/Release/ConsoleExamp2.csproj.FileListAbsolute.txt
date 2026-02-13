@@ -1,0 +1,7 @@
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\bin\Release\ConsoleExamp2.exe.config
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\bin\Release\ConsoleExamp2.exe
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\bin\Release\ConsoleExamp2.pdb
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\obj\Release\ConsoleExamp2.csproj.AssemblyReference.cache
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\obj\Release\ConsoleExamp2.csproj.CoreCompileInputs.cache
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\obj\Release\ConsoleExamp2.exe
+C:\Users\oonet\OneDrive\เดสก์ท็อป\Test Logic for Persec\Project\ConsoleExamp2\ConsoleExamp2\obj\Release\ConsoleExamp2.pdb
