@@ -1,0 +1,10 @@
+E:\Coding\Examp1\Examp1\bin\Debug\Examp1.exe.config
+E:\Coding\Examp1\Examp1\bin\Debug\Examp1.exe
+E:\Coding\Examp1\Examp1\bin\Debug\Examp1.pdb
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.csproj.AssemblyReference.cache
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.Form1.resources
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.Properties.Resources.resources
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.csproj.GenerateResource.cache
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.csproj.CoreCompileInputs.cache
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.exe
+E:\Coding\Examp1\Examp1\obj\Debug\Examp1.pdb
